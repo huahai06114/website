@@ -171,7 +171,7 @@ CPU: 2
 Resource Weights
 
 intel.com/foo : 5
-Memory: 1
+Memory : 1GB
 CPU: 3
 
 FunctionShapePoint {{0, 0}, {100, 10}}
@@ -180,7 +180,7 @@ Node 1 Spec
 
 Available:
 intel.com/foo : 4
-Memory : 1 GB
+Memory : 1GB
 CPU: 8
 
 Used:
